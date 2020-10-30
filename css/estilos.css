@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background: rebeccapurple;
+    margin:  auto 200px;
+
+}
+
+header{
+    padding: 15px;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+.menu{
+
+    text-align: left;
+    background: lemonchiffon;
+    padding: 15px 10px;
+    list-style:none;
+   
+
+    
+}
+
+.menu li{
+    color: black;
+    padding: 5px;
+    display: inline-block
+    
+    
+    
+}
