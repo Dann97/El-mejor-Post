@@ -39,6 +39,7 @@ header{
 .container{
     border: solid 1px black;
     padding: 15px;
+    background: rgb(120, 144, 189);
 }
 
 aside{
